@@ -1,4 +1,10 @@
-# Portfolio of project by Devarshi Khule
+# **Portfolio of projects by Devarshi Khule**
+
+# [Image classification using PyTorch](https://github.com/dskhule97/Image-classification-using-PyTorch)
+The project involves uploading a picture of an object and using a computer program to automatically identify what the object is. The program uses a pre-trained deep learning model, which has been trained on a large dataset of images, to make predictions about the class of the input image.
+
+The project uses several technical tools to achieve its goal: PyTorch, ResNet101, Torchvision, PIL (Python Imaging Library)
+
 # [FIFA Player Analysis using python](https://github.com/dskhule97/FIFA-player-data-analysis)
 The aim of this project is to perform Data Wrangling, Cleaning and Player Analysis of the FIFA 21 data from Kaggle using Python (Pandas, Seaborn, Matplotlib) 
 
